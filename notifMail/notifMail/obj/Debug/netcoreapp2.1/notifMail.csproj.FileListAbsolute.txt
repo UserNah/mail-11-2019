@@ -1,0 +1,12 @@
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\bin\Debug\netcoreapp2.1\notifMail.dll.config
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\bin\Debug\netcoreapp2.1\notifMail.deps.json
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\bin\Debug\netcoreapp2.1\notifMail.runtimeconfig.json
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\bin\Debug\netcoreapp2.1\notifMail.runtimeconfig.dev.json
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\bin\Debug\netcoreapp2.1\notifMail.dll
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\bin\Debug\netcoreapp2.1\notifMail.pdb
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\obj\Debug\netcoreapp2.1\notifMail.csprojAssemblyReference.cache
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\obj\Debug\netcoreapp2.1\notifMail.csproj.CoreCompileInputs.cache
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\obj\Debug\netcoreapp2.1\notifMail.AssemblyInfoInputs.cache
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\obj\Debug\netcoreapp2.1\notifMail.AssemblyInfo.cs
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\obj\Debug\netcoreapp2.1\notifMail.dll
+C:\Users\b.aldakulov\source\repos\notifMail\notifMail\obj\Debug\netcoreapp2.1\notifMail.pdb
